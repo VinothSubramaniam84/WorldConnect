@@ -11,3 +11,7 @@ Create a world chat application
 5. Personalize account
 
 6. Attachments with images videos
+
+7. Enabling the attachment for documents and audio
+
+8. Enabling the attachment for folder and link
