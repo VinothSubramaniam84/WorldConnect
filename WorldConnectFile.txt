@@ -1,0 +1,12 @@
+Create a world chat application
+
+1. Create a user login
+
+2. Set up profile
+
+3. View people with serial number
+
+4. People setting
+
+5. Personalize account
+
