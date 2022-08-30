@@ -10,3 +10,4 @@ Create a world chat application
 
 5. Personalize account
 
+6. Attachments with images videos
